@@ -418,7 +418,7 @@ public class ComputeMaxWeightMatch {
 		readinput.close();
 		
 		long endTime = System.currentTimeMillis();
-        System.out.println("It took " + (endTime - startTime) + " milliseconds");
+       // System.out.println("It took " + (endTime - startTime) + " milliseconds");
 	}
 
 }
