@@ -1,0 +1,2 @@
+#!/bin/bash
+java -jar computepv.jar $1 > $2
