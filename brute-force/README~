@@ -1,0 +1,14 @@
+This is Assignment 1 submitted by Vivek Natarajan vn3399
+Tested and works on the sample input files in the same directory
+The output files generated are in the separate folder output
+THe commands 
+./build 
+and 
+./run input.txt output.txt 
+works and the output file is produced in the current directory
+The algorithm implemented is not brute force but a variant of the stable matching case where the 
+stability criteria has been modified to account for maximal weight assignment of bids to rooms.
+Bid.java and Item.java are classes for the Bid and Item and the main method is in MaxWeightCompute.java
+It has a public function Auction for performing the auction process. The output result is printed to standard out
+and redirect to the output file.
+

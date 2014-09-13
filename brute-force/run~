@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp guava-16.0.jar;bin/* com/maxweightbid/MaxWeightCompute $1 > $2
