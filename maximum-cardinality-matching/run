@@ -1,0 +1,2 @@
+#!/bin/bash
+java -jar mwmcm.jar $1 > $2
