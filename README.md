@@ -1,4 +1,4 @@
 Maximum-Weight-Matching
 =======================
 
-Using Maximal Weight Maximum Cardinality Matching for the single price sealed bid auction problem
+Source code for a variety of approaches for pricing items and resolution of an arbitray unit-demand auction. The algorithms explored include brute-force, Maximum Cardianlity Matching and Maximum Weight Maximum Cardinality Matching
